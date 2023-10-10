@@ -1,5 +1,5 @@
 # Site AluraPlay
-Projeto criado referente ao curso Formação CSS Estilos para aprendizado das funções diferentes funções flex dentro do Css.
+Projeto criado referente ao curso Formação CSS Estilos para aprendizado das diferentes funções flex dentro do Css.
 
 Site criado utilizando as linguagens:
 > HTML e CSS
